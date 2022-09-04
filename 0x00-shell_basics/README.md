@@ -1,1 +1,1 @@
-listing of all types of directories
+listing of all types of files and directories
