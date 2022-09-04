@@ -1,1 +1,1 @@
-listing of all types of files and directories
+a script that prints the type of the file named iamafile.
