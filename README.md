@@ -1,1 +1,1 @@
-school.mgc
+hello_world
