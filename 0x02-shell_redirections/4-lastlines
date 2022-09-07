@@ -1,3 +1,4 @@
 #!/bin/bash
-tail -n 10 /passwd
+tail -n 10/passwd
+
 
