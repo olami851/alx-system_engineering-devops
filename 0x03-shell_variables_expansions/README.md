@@ -1,1 +1,1 @@
-counting of directories numbers in path
+Global_Variables
